@@ -52,9 +52,9 @@ public class Experimentos extends javax.swing.JFrame {
         //+ "Introdução aos Sistemas Evolutivos\\Trabalho_AG\\OCRs\\OCR\\"
         //+ "DatasetSinteticas/";
         //"DatasetMao\\";
-        String directorio = "C:\\Users\\djoneuspiano\\Downloads\\Projeto-de-AG-master\\DatasetMao\\";
-      //String directorio = "C:\\Users\\djoneuspiano\\Downloads\\Projeto-de-AG-master\\DatasetSinteticas\\";
-        String letras[] = {"A", "B", "C", "D", "E", "F", "G", "H",
+       // String directorio = "C:\\Users\\djoneuspiano\\Downloads\\Projeto-de-AG-master\\DatasetMao\\";
+          String directorio = "C:\\Users\\djoneuspiano\\Downloads\\Projeto-de-AG-master\\DatasetSinteticas\\";
+          String letras[] = {"A", "B", "C", "D", "E", "F", "G", "H",
             "I", "J", "K", "L", "M", "N", "O", "P",
             "Q", "R", "S", "T", "U", "V", "W", "X",
             "Y", "Z"};
