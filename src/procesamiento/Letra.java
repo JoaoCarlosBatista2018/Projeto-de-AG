@@ -1,18 +1,7 @@
-/*
- * Letra.java
- *
- * Created on March 21, 2008, 12:05 PM
- *
- * To change this template, choose Tools | Template Manager
- * and open the template in the editor.
- */
+
 
 package procesamiento;
 
-/**
- *
- * @author bNES
- */
 public class Letra {
     public int t;
     public int b;
